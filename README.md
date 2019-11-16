@@ -1,7 +1,7 @@
 # Schelling-s-Model-of-Segregation
 
-**Well-known CS task:
-** http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/
+**Well-known CS task:** 
+http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/
 
 Here is my dummy solution. Check out the example of how it be like:
 
